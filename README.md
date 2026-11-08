@@ -2,7 +2,7 @@
 
 An endless, high-speed 3D arcade dodger built with **Three.js** and **Vite**, featuring custom 3D assets generated using **[Vi3W](https://app.vi3w.in)**.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Vercel-00f0ff?style=for-the-badge&logo=vercel)](https://vi3w-space-dodger.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vi3w-space-dodger.vercel.app/)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
