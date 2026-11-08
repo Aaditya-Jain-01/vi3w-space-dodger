@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vi3W Space Dodger</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="ui-overlay">
+      <div id="hud">
+        <div class="stat">SCORE: <span id="score">0</span></div>
+        <div class="stat">HIGH: <span id="high-score">0</span></div>
+      </div>
+      <div id="game-over-screen" class="hidden">
+        <h1>CRITICAL COLLISION</h1>
+        <p>Final Score: <span id="final-score">0</span></p>
+        <button id="restart-btn">RETRY FLIGHT (SPACE)</button>
+      </div>
+      <div id="instructions">Use [A / D] or [← / →] to Steer</div>
+    </div>
+    <div id="canvas-container"></div>
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>
